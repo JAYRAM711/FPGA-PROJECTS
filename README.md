@@ -3,3 +3,5 @@ This repository contains the files related to Implementations of various Digital
 
 
 `PROJECT-1` : BCD TO 7-SEGMENT LED DISPLAY
+
+`PROJECT-2` : BLINKING OF LED
