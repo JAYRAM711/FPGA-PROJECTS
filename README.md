@@ -6,4 +6,4 @@ This repository contains the files related to Implementations of various Digital
 
 `PROJECT-2` : BLINKING OF LED
 
-`PROJECT-3` : PWM GENERATOR FOR LED DIMMING AND BRIGHTING
+`PROJECT-3` : PWM GENERATOR FOR LED BIGHTNESS MANAGEMENT
